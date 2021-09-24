@@ -1,0 +1,2 @@
+heroku git:remote -a opensea-sales-twitter-bot
+set git remote heroku to https://github.com/natetrillo/opensea-sales-twitter-bot
